@@ -16,8 +16,7 @@ public class robotStatique /*extends robot*/{ /* on supprime le extends car ca n
 	}
 
 	public void avance() {
-		throw new UnsupportedOperationException();
-		
+		throw new UnsupportedOperationException();		
 	}
 	
 	
